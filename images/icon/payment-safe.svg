@@ -1,0 +1,14 @@
+<svg id="icon-payment-safe" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_194" data-name="Rectangle 194" width="15.684" height="25" transform="translate(0 0.048)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_206" data-name="Group 206" transform="translate(5 -0.048)">
+    <g id="Group_205" data-name="Group 205" clip-path="url(#clip-path)">
+      <path id="Path_166" data-name="Path 166" d="M7.868,1.611a3.127,3.127,0,0,1,3.127,3.125h0v6.25H4.742V4.738A3.125,3.125,0,0,1,7.867,1.612h0m4.69,9.378V4.738a4.689,4.689,0,1,0-9.378-.1c0,.032,0,.064,0,.1v6.25A3.125,3.125,0,0,0,.053,14.112v7.82a3.125,3.125,0,0,0,3.125,3.126h9.38a3.126,3.126,0,0,0,3.126-3.125h0V14.116a3.126,3.126,0,0,0-3.125-3.126h0M3.179,12.553h9.379a1.563,1.563,0,0,1,1.563,1.563v7.816a1.562,1.562,0,0,1-1.563,1.562H3.179a1.562,1.562,0,0,1-1.563-1.562V14.116a1.563,1.563,0,0,1,1.563-1.563" fill="#353535"/>
+      <path id="Path_167" data-name="Path 167" d="M9.9,16.331a2.03,2.03,0,0,1-1.354,1.916l.52,2.695a.676.676,0,0,1-.535.793.715.715,0,0,1-.13.012H7.334a.676.676,0,0,1-.675-.68.654.654,0,0,1,.012-.125l.52-2.695A2.031,2.031,0,1,1,9.9,16.331" fill="#353535"/>
+    </g>
+  </g>
+  <rect id="Rectangle_195" data-name="Rectangle 195" width="25" height="25" fill="none"/>
+</svg>
