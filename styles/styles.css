@@ -574,7 +574,7 @@ input::-webkit-inner-spin-button {
 
 @media (max-width: 768px) {
     .products-categories__title h2 {
-        padding: 18px 0;
+        padding: 36px 0 12px;
         font-size: 28px;
     }
 }
@@ -673,7 +673,7 @@ input::-webkit-inner-spin-button {
 .products-list__wrapper {
     display: flex;
     flex-flow: row nowrap;
-    margin: 48px 0;
+    margin: 8px 0 48px;
 }
 
 .products-list__filter {
