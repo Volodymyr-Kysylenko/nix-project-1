@@ -481,12 +481,14 @@ input::-webkit-inner-spin-button {
     justify-content: center;
     align-items: center;
     height: 92vh;
+    min-height: 700px;
     color: #fff;
     overflow: hidden;
 }
 
 .introduction__background {
     position: absolute;
+    min-height: 700px;
     height: 100%;
     width: 100%;
     background-image: url(/images/intro.jpg);
